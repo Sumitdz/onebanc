@@ -7,7 +7,7 @@ It uses common patterns and personal demographic data such as Date of Birth (DOB
 
 ## 📁 Project Structure
 
-📦 MPIN-Checker
+MPIN-Checker
 ├── mpin_check.py # Core logic for MPIN evaluation
 ├── app.py # Streamlit UI (optional)
 ├── common_mpin_list.txt # External list of common MPINs
@@ -16,7 +16,7 @@ It uses common patterns and personal demographic data such as Date of Birth (DOB
 
 ## Features
 
-- Accepts 4-digit and 6-digit MPINs
+- Accepts 4 digit and 6 digit MPINs
 - Evaluates MPIN based on:
   - Commonly used MPINs (e.g., 1234, 0000)
   - Match with user’s date of birth
@@ -44,7 +44,7 @@ streamlit run app.py
    python test_mpin_check.py
 ```
 
-Submitted By
-Name: Sumit Jha
-University: Jaypee University of Engineering and Technology, Guna
-Email: sumitjha0745@gmail.com
+- Submitted By
+- Name: Sumit Jha
+- University: Jaypee University of Engineering and Technology, Guna
+- Email: sumitjha0745@gmail.com
