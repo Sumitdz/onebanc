@@ -3,15 +3,6 @@
 This project checks whether a given MPIN (4-digit or 6-digit) is **STRONG** or **WEAK**.  
 It uses common patterns and personal demographic data such as Date of Birth (DOB), Spouse's DOB, and Wedding Anniversary to assess the MPIN's security.
 
-The project was created as part of the Data Science assignment for OneBanc Technologies.
-
-# MPIN Strength Checker – OneBanc Assignment
-
-This project checks whether a given MPIN (4-digit or 6-digit) is **STRONG** or **WEAK**.  
-It uses common patterns and personal demographic data such as Date of Birth (DOB), Spouse's DOB, and Wedding Anniversary to assess the MPIN's security.
-
-The project was created as part of the Data Science assignment for OneBanc Technologies.
-
 ---
 
 ## 📁 Project Structure
