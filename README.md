@@ -5,9 +5,9 @@ It uses common patterns and personal demographic data such as Date of Birth (DOB
 
 ---
 
-<pre>## 📁 Project Structure
+## 📁 Project Structure
 
-MPIN-Checker
+<pre>MPIN-Checker
 ├── mpin_check.py # Core logic for MPIN evaluation
 ├── app.py # Streamlit UI (optional)
 ├── common_mpin_list.txt # External list of common MPINs
