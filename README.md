@@ -44,7 +44,8 @@ streamlit run app.py
    python test_mpin_check.py
 ```
 
-- Submitted By
+Submitted By
+
 - Name: Sumit Jha
 - University: Jaypee University of Engineering and Technology, Guna
 - Email: sumitjha0745@gmail.com
