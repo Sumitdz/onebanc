@@ -1,4 +1,4 @@
-# MPIN Strength Checker – OneBanc Assignment
+# MPIN Strength Checker
 
 This project checks whether a given MPIN (4-digit or 6-digit) is **STRONG** or **WEAK**.  
 It uses common patterns and personal demographic data such as Date of Birth (DOB), Spouse's DOB, and Wedding Anniversary to assess the MPIN's security.
@@ -44,8 +44,7 @@ streamlit run app.py
    python test_mpin_check.py
 ```
 
-Submitted By
-
-- Name: Sumit Jha
-- University: Jaypee University of Engineering and Technology, Guna
-- Email: sumitjha0745@gmail.com
+- Submitted By:
+  - Name: Sumit Jha
+  - University: Jaypee University of Engineering and Technology, Guna
+  - Email: sumitjha0745@gmail.com
